@@ -33,4 +33,4 @@ print(string_double_quotes)
 ![image](https://github.com/user-attachments/assets/f1220fe0-dba3-44bd-9cd5-12881318a949)
 
 ## RESULT
-
+Thus the python program for printing multiline strings has been implemented and executed successfully.
