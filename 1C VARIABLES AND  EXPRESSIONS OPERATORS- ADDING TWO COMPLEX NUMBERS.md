@@ -16,16 +16,18 @@ To write a Python program for adding two complex numbers, and get the user input
 # Reg.No-212222020006
 #Name-Deepika V
 
-num2 = 456
-num3 = 789
-print(num1)
-print(num2)
-print(num3)
+A = eval(input())
+B = eval(input())
+print(f"A is {A}")
+print(f"B is {B}")
+sum_complex = A + B
+print(f"Sum is {sum_complex}")
 
 ```
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/0b63806f-e23d-45ee-b3e8-30c1a1be81d3)
+![image](https://github.com/user-attachments/assets/9f5f65a4-4fe9-4d38-8fb3-791a44e788a6)
+
 
 
 ## RESULT
