@@ -29,6 +29,9 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/8dc61962-6057-4361-be43-cb18d71c8521)
 
 ## RESULT
+Thus the python program for printing multiline strings has been implemented and executed successfully.
+
 
